@@ -1,2 +1,3 @@
 # TypeScript---treino
-repositório utilizado no treino de TypeScript
+★ Projeto utilizado no treino de TypeScript - Curso de
+TypeScript parte 1: evoluindo seu JavaScript
